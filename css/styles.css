@@ -54,3 +54,7 @@ body {
   position: absolute;
   bottom: 0px;
 }
+
+.btngoogle :hover{
+color:red;
+}
